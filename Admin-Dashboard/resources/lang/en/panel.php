@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'DentriceDev Solutions',
+    'site_title' => 'testSystem Solutions',
 ];
